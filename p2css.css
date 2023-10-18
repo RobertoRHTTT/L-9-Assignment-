@@ -1,0 +1,55 @@
+body {
+    background-attachment: fixed;
+    background-image: url("Mexican fingerprint.png");
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.button-1 {
+    padding: 10px 10px 10px 10px;
+    background-color: gray;
+    border-radius: 15px;
+}
+.button-2 {
+    padding: 10px 10px 10px 10px;
+    background-color: gray;
+    border-radius: 15px;
+}
+
+nav {
+    padding-bottom: 6px;
+    padding-top: none;
+    overflow: hidden;
+    background-color: darkgreen;
+}
+nav li {
+    float: left;
+}
+nav a {
+    display: block;
+    padding: 8px;
+}
+nav ul {
+    list-style-type: none;
+    margin-bottom: 5px;
+}
+a {
+    color: rgb(34, 30, 30);
+}
+a:hover {
+    text-decoration: none;
+    color: #0d0852;
+}
+.Day-2 {
+        font-size: 18px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+summary {
+    font-size: large;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

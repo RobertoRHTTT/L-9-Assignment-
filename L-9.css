@@ -1,0 +1,90 @@
+body {
+    background-image: url("Mexican fingerprint.png");
+    background-attachment: fixed;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+table { 
+    font-family: Arial, Helvetica, sans-serif;
+    border-spacing: 5px;
+    border-color: black;
+    border-collapse: collapse;
+    background-color: #B0DC7A;
+        }
+
+th {
+    background-color: gray;
+}
+    
+    tr:hover { background-color: #7FBD32;}
+.Day-1 {
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+}
+#Mexicoimg1 {
+    padding: 15px;
+    width: 300px;
+    height: 300px;
+    Border: solid 5px #660000
+}
+#Mexicoimg2 {
+    width: 300px;
+    height: 300px;
+    padding: 15px;
+    border: solid 5px #660000;
+}
+a {
+    color: rgb(34, 30, 30);
+}
+a:hover {
+    text-decoration: none;
+    color: #0d0852;
+}
+header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+.Day-1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+nav {
+    padding: none;
+    overflow: hidden;
+    background-color: darkgreen;
+}
+nav li {
+    float: left;
+}
+nav a {
+    display: block;
+    padding: 8px;
+}
+nav ul {
+    list-style-type: none;
+    margin-bottom: 5px;
+}
+.button-1 {
+    padding: 10px 10px 10px 10px;
+    background-color: gray;
+    border-radius: 15px;
+}
+.button-2 {
+    padding: 10px 10px 10px 10px;
+    background-color: gray;
+    border-radius: 15px;
+}
+footer {
+    background-color: #660000;
+}
